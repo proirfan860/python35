@@ -1,3 +1,4 @@
+
 meme_dict = {
     "LOL": "Komik bir şeye verilen cevap",
     "CRINGE": "Garip ya da utandırıcı bir şey",
